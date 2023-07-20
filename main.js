@@ -25,4 +25,4 @@ tabs.addEventListener("mouseout", (e) => {
   e.target.classList.remove("hover");
 });
 
-// Developed By SeyedMohammadMahdi Kiaei
+// Developed By Mohammad Kiaei
